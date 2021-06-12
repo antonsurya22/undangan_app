@@ -5,6 +5,14 @@ import 'model/Undangan.dart';
 import 'qr.dart';
 import 'select_figure.dart';
 
+//Created by Antonie Dev
+/*
+
+I Gusti Nyoman Anton Surya Diputra
+1915051027
+PTI 4 A
+
+*/
 
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);
